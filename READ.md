@@ -107,8 +107,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## **Contact** 📧
 
 For questions or feedback, feel free to reach out:  
-- **Email**: your-email@example.com 📩  
-- **GitHub**: [your-username](https://github.com/your-username) 🐙  
+- **Email**: prabhas.gampala13@gmail.com 📩  
+- **GitHub**:(https://github.com/prabhas6567)) 🐙  
 
 ---
 
